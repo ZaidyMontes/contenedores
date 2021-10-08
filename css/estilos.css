@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+header .col-1{
+    background-color:white;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+    
+    
+}
+header .col-2{
+    background-color:white;
+    width: 66.67%;
+    height: 300px;
+    float:right ;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+main .col-3{
+    background-color: white;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+}
+
+main .col-4{
+    background-color: white;
+    height: 300px;
+    width: 33.33%;
+    float: left;
+}
+main .col-5{
+    background-color: white;
+    height: 300px;
+    width: 33.33%;
+    float:right; 
+}
+footer .col-6{
+    background-color:white;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+footer .col-7{
+    background-color:white;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
